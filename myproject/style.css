@@ -63,7 +63,7 @@ canvas {
     left: 0;
   }
   header {
-    background-color: rgba(15, 15, 15, 0.75);
+    background-color: rgba(15, 15, 15, 0.55);
     height: fit-content;
     width: fit-content;
     padding: 0.4em;
@@ -87,7 +87,7 @@ canvas {
     max-width: 700px;
   }
   section {
-    background-color: rgba(15, 15, 15, 0.75);
+    background-color: rgba(15, 15, 15, 0.55);
     padding: 0.5em;
     margin-bottom: 2em;
     max-width: 700px;
