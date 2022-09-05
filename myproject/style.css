@@ -10,6 +10,8 @@ html {
 }
 canvas {
   position: fixed;
+  width: 100vw;
+  height: 100vw;
   top: 0;
   left: 0;
   background-color: #000000;
