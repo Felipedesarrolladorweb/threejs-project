@@ -1,12 +1,7 @@
 @import url("https://use.typekit.net/jmk3xov.css");
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 html {
-  overflow: hidden;
+  overflow-x: hidden;
 }
 canvas {
   position: fixed;
