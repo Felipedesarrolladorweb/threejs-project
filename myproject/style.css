@@ -108,6 +108,15 @@ canvas {
   }
 }
 @media screen and ( min-width: 1000px) {
+  header {
+    max-width: 700px;
+    margin: 4em 0 16em;
+    background-color: rgba(15, 15, 15, 0.95);
+  }
+  header h1 {
+    min-width: fit-content;
+    font-size: 4rem;
+  }
   .left {
     align-self: flex-end;
   }
